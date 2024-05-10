@@ -1,6 +1,9 @@
 # winpeas (.exe)
 windows privilege escalation checklist with winpeas binary for windows
 
+# download binary
+(binary)[https://github.com/alien-keric/winpeas/main/winpeas.exe]
+
 WinPEAS is a script that search for possible paths to escalate privileges on Windows hosts. The checks are explained on [book.hacktricks.xyz](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation)
 
 # parameter examples
